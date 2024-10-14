@@ -1,0 +1,47 @@
+name: Suraksha
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  speech_to_text: ^7.0.0
+  permission_handler: ^11.3.1
+  css_colors: ^1.1.5
+  image_picker: ^1.0.1
+  provider: ^6.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/light_background1.jpg
+    - assets/light_background2.jpg
+    - assets/light_background3.jpg
+    - assets/light_background4.jpg
+    - assets/light_background5.jpg
+    - assets/light_background6.jpg
+    - assets/dark_background1.jpg
+    - assets/dark_background2.jpg
+    - assets/dark_background3.jpg
+    - assets/dark_background4.jpg
+    - assets/dark_background5.jpg
+    - assets/dark_background6.jpg
+    - assets/aesthetic_background1.jpg
+    - assets/aesthetic_background2.jpg
+    - assets/aesthetic_background3.jpg
+    - assets/aesthetic_background4.jpg
+    - assets/aesthetic_background5.jpg
+    - assets/aesthetic_background6.jpg
+    - assets/signup_background.jpg
+    - assets/placeholder_image.png
+    - assets/your_map_image.png
